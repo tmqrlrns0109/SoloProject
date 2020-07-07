@@ -185,7 +185,7 @@ AnimatorStateMachine:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Layer2
+  m_Name: UpperBody
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: -8418907428174546497}
@@ -216,7 +216,7 @@ AnimatorController:
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
-    m_DefaultBool: 1
+    m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
@@ -232,7 +232,7 @@ AnimatorController:
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
   - serializedVersion: 5
-    m_Name: Layer2
+    m_Name: UpperBody
     m_StateMachine: {fileID: -359290557732508929}
     m_Mask: {fileID: 31900000, guid: afb4a5403b91a4d4f9114ee57c3b40e1, type: 2}
     m_Motions: []

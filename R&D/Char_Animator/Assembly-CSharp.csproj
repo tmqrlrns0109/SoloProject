@@ -91,6 +91,7 @@
     <Compile Include="Assets\RPG Character Animation Pack\SuperCharacterController\Code\SuperCharacterController\Core\SuperStateMachine.cs" />
     <Compile Include="Assets\RPG Character Animation Pack\SuperCharacterController\Code\SuperCharacterController\DebugDraw.cs" />
     <Compile Include="Assets\RPG Character Animation Pack\SuperCharacterController\Code\SuperCharacterController\Math3d.cs" />
+    <Compile Include="Assets\Script\FolowCam.cs" />
     <Compile Include="Assets\Script\Player.cs" />
     <Compile Include="Assets\Script\WeaponSystem.cs" />
     <None Include="Assets\PolygonApocalypse\Materials\Misc\Shader\POLYGON_Zombies.shader" />
