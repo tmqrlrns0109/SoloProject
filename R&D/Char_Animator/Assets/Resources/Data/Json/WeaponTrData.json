@@ -1,0 +1,42 @@
+[
+  {
+    "id": 100,
+    "res_name": "AssaultRifle_01",
+    "pos_x": 0.121,
+    "pos_y": 0.036,
+    "pos_z": 0.036,
+    "rot_x": -19.335,
+    "rot_y": 69.604,
+    "rot_z": -86.16
+  },
+  {
+    "id": 101,
+    "res_name": "AssaultRifle_02",
+    "pos_x": 0.121,
+    "pos_y": 0.036,
+    "pos_z": 0.036,
+    "rot_x": -19.335,
+    "rot_y": 69.604,
+    "rot_z": -86.16
+  },
+  {
+    "id": 102,
+    "res_name": "Hybrid_01",
+    "pos_x": 0.121,
+    "pos_y": 0.036,
+    "pos_z": 0.036,
+    "rot_x": -19.335,
+    "rot_y": 69.604,
+    "rot_z": -86.16
+  },
+  {
+    "id": 103,
+    "res_name": "Shotgun_01",
+    "pos_x": 0.145,
+    "pos_y": 0.041,
+    "pos_z": -0.034,
+    "rot_x": -19.335,
+    "rot_y": 69.604,
+    "rot_z": -86.16
+  }
+]

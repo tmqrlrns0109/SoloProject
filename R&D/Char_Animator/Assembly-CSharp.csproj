@@ -63,7 +63,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Actor.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Base\Joystick.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
@@ -91,9 +90,14 @@
     <Compile Include="Assets\RPG Character Animation Pack\SuperCharacterController\Code\SuperCharacterController\Core\SuperStateMachine.cs" />
     <Compile Include="Assets\RPG Character Animation Pack\SuperCharacterController\Code\SuperCharacterController\DebugDraw.cs" />
     <Compile Include="Assets\RPG Character Animation Pack\SuperCharacterController\Code\SuperCharacterController\Math3d.cs" />
+    <Compile Include="Assets\Script\Actor.cs" />
+    <Compile Include="Assets\Script\Data\CS\WeaponTrData.cs" />
     <Compile Include="Assets\Script\FolowCam.cs" />
+    <Compile Include="Assets\Script\GetItemCollider.cs" />
+    <Compile Include="Assets\Script\Manager\DataManager.cs" />
     <Compile Include="Assets\Script\Player.cs" />
     <Compile Include="Assets\Script\WeaponSystem.cs" />
+    <None Include="Assets\JsonDotNet\link.xml" />
     <None Include="Assets\PolygonApocalypse\Materials\Misc\Shader\POLYGON_Zombies.shader" />
     <None Include="Assets\RPG Character Animation Pack\SuperCharacterController\Code\SuperCharacterController\README.txt" />
     <None Include="Assets\PolygonApocalypse\Materials\Misc\Shader\SkyGradient.shader" />
@@ -295,6 +299,9 @@
     </Reference>
     <Reference Include="UnityEngine.XRModule">
       <HintPath>C:/Program Files/2019.3.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>C:/Users/tjoeun/Desktop/Sourcetree_Test/R&amp;D/Char_Animator/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/2019.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
